@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 3588281,
+    "occurrence": 0,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5567126,
+    "project": {
+      "id": 1342,
+      "name": "CPP Module 04",
+      "slug": "cpp-module-04",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-03-20T17:32:38.308Z",
+    "marked": true,
+    "retriable_at": "2024-03-21T17:32:38.503Z",
+    "created_at": "2024-03-10T20:52:52.627Z",
+    "updated_at": "2024-03-20T17:32:38.518Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5567126,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5567126",
+        "final_mark": 100,
+        "project_id": 1342,
+        "created_at": "2024-03-10T20:52:52.667Z",
+        "updated_at": "2024-03-20T17:32:38.542Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3588281
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-8442f422-a326-449d-bc89-4f5f0bc500e4-5567126-dfarci",
+        "repo_uuid": "intra-uuid-8442f422-a326-449d-bc89-4f5f0bc500e4-5567126-dfarci",
+        "locked_at": "2024-03-10T20:52:52.704Z",
+        "closed_at": "2024-03-20T15:02:58.218Z",
+        "project_session_id": 3328,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/cpp-04"
+      }
+    ]
+  },
+  {
+    "id": 3580768,
+    "occurrence": 0,
+    "final_mark": 80,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5556208,
+    "project": {
+      "id": 1341,
+      "name": "CPP Module 03",
+      "slug": "cpp-module-03",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-03-10T20:21:29.990Z",
+    "marked": true,
+    "retriable_at": "2024-03-11T20:21:30.027Z",
+    "created_at": "2024-03-05T10:15:27.317Z",
+    "updated_at": "2024-03-10T20:21:30.038Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5556208,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5556208",
+        "final_mark": 80,
+        "project_id": 1341,
+        "created_at": "2024-03-05T10:15:27.395Z",
+        "updated_at": "2024-03-10T20:21:30.065Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3580768
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-9ed30278-5a35-441a-8cba-942364f9cefe-5556208-dfarci",
+        "repo_uuid": "intra-uuid-9ed30278-5a35-441a-8cba-942364f9cefe-5556208-dfarci",
+        "locked_at": "2024-03-05T10:15:27.471Z",
+        "closed_at": "2024-03-07T20:44:56.784Z",
+        "project_session_id": 3327,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/cpp-03"
+      }
+    ]
+  },
+  {
+    "id": 3567965,
+    "occurrence": 0,
+    "final_mark": 80,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5536722,
+    "project": {
+      "id": 1340,
+      "name": "CPP Module 02",
+      "slug": "cpp-module-02",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-03-05T10:14:57.086Z",
+    "marked": true,
+    "retriable_at": "2024-03-06T10:14:57.135Z",
+    "created_at": "2024-02-26T17:16:17.905Z",
+    "updated_at": "2024-03-05T10:14:57.149Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5536722,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5536722",
+        "final_mark": 80,
+        "project_id": 1340,
+        "created_at": "2024-02-26T17:16:17.948Z",
+        "updated_at": "2024-03-05T10:14:57.169Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3567965
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-ab2d43f0-58fa-478b-a070-4cd441dc5b0f-5536722-dfarci",
+        "repo_uuid": "intra-uuid-ab2d43f0-58fa-478b-a070-4cd441dc5b0f-5536722-dfarci",
+        "locked_at": "2024-02-26T17:16:18.015Z",
+        "closed_at": "2024-03-04T04:43:44.803Z",
+        "project_session_id": 3326,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/cpp-02"
+      }
+    ]
+  },
+  {
+    "id": 3551924,
+    "occurrence": 0,
+    "final_mark": 90,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5513643,
+    "project": {
+      "id": 1339,
+      "name": "CPP Module 01",
+      "slug": "cpp-module-01",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-02-25T18:47:22.619Z",
+    "marked": true,
+    "retriable_at": "2024-02-26T18:47:22.658Z",
+    "created_at": "2024-02-19T10:39:52.321Z",
+    "updated_at": "2024-02-25T18:47:22.675Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5513643,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5513643",
+        "final_mark": 90,
+        "project_id": 1339,
+        "created_at": "2024-02-19T10:39:52.343Z",
+        "updated_at": "2024-02-25T18:47:22.701Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3551924
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-b7af5f72-86f9-425c-994e-70ec4a97b60c-5513643-dfarci",
+        "repo_uuid": "intra-uuid-b7af5f72-86f9-425c-994e-70ec4a97b60c-5513643-dfarci",
+        "locked_at": "2024-02-19T10:39:52.381Z",
+        "closed_at": "2024-02-22T19:59:43.608Z",
+        "project_session_id": 3325,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/cpp-01"
+      }
+    ]
+  },
+  {
+    "id": 3494327,
+    "occurrence": 0,
+    "final_mark": 80,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5430801,
+    "project": {
+      "id": 1338,
+      "name": "CPP Module 00",
+      "slug": "cpp-module-00",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-02-19T10:26:06.262Z",
+    "marked": true,
+    "retriable_at": "2024-02-20T10:26:06.295Z",
+    "created_at": "2024-01-22T18:53:21.982Z",
+    "updated_at": "2024-02-19T10:26:06.307Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5430801,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5430801",
+        "final_mark": 80,
+        "project_id": 1338,
+        "created_at": "2024-01-22T18:53:22.004Z",
+        "updated_at": "2024-02-19T10:26:06.326Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3494327
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-da1c0129-028c-49ee-ba78-4ea461e9c48a-5430801-dfarci",
+        "repo_uuid": "intra-uuid-da1c0129-028c-49ee-ba78-4ea461e9c48a-5430801-dfarci",
+        "locked_at": "2024-01-22T18:53:22.039Z",
+        "closed_at": "2024-02-19T07:08:34.273Z",
+        "project_session_id": 3324,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/cpp-00"
+      }
+    ]
+  },
+  {
+    "id": 3494325,
+    "occurrence": 0,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5430798,
+    "project": {
+      "id": 2007,
+      "name": "NetPractice",
+      "slug": "netpractice",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-02-04T18:23:45.029Z",
+    "marked": true,
+    "retriable_at": "2024-02-07T18:23:45.256Z",
+    "created_at": "2024-01-22T18:51:56.743Z",
+    "updated_at": "2024-02-04T18:23:45.270Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5430798,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5430798",
+        "final_mark": 100,
+        "project_id": 2007,
+        "created_at": "2024-01-22T18:51:56.772Z",
+        "updated_at": "2024-02-04T18:23:45.301Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3494325
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-ae33d8f3-11ec-4cf1-bd5d-f4c298e27e2a-5430798-dfarci",
+        "repo_uuid": "intra-uuid-ae33d8f3-11ec-4cf1-bd5d-f4c298e27e2a-5430798-dfarci",
+        "locked_at": "2024-01-22T18:51:56.820Z",
+        "closed_at": "2024-02-04T15:38:03.684Z",
+        "project_session_id": 5995,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/net_practice"
+      }
+    ]
+  },
+  {
+    "id": 3494323,
+    "occurrence": 0,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5430796,
+    "project": {
+      "id": 1322,
+      "name": "Exam Rank 04",
+      "slug": "exam-rank-04",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-01-25T18:07:06.723Z",
+    "marked": true,
+    "retriable_at": "2024-01-25T18:07:06.749Z",
+    "created_at": "2024-01-22T18:51:11.282Z",
+    "updated_at": "2024-01-25T18:07:17.047Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5430796,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5430796",
+        "final_mark": 100,
+        "project_id": 1322,
+        "created_at": "2024-01-22T18:51:11.305Z",
+        "updated_at": "2024-01-25T18:07:16.810Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3494323
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-072226d5-a5df-4fd1-aed7-b3995e25ab44-5430796-dfarci",
+        "locked_at": "2024-01-22T18:51:11.337Z",
+        "closed_at": "2024-01-25T18:07:16.519Z",
+        "project_session_id": 3308,
+        "project_gitlab_path": null
+      }
+    ]
+  },
+  {
+    "id": 3476930,
+    "occurrence": 0,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5408821,
+    "project": {
+      "id": 1331,
+      "name": "minishell",
+      "slug": "42cursus-minishell",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2024-01-22T17:45:36.522Z",
+    "marked": true,
+    "retriable_at": "2024-01-25T17:45:36.782Z",
+    "created_at": "2024-01-15T10:09:18.708Z",
+    "updated_at": "2024-01-22T17:45:37.102Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5408821,
+        "name": "minishell",
+        "url": "https://api.intra.42.fr/v2/teams/5408821",
+        "final_mark": 100,
+        "project_id": 1331,
+        "created_at": "2024-01-15T11:50:23.649Z",
+        "updated_at": "2024-01-22T17:45:37.213Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 111060,
+            "login": "teaccess",
+            "url": "https://api.intra.42.fr/v2/users/teaccess",
+            "leader": false,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3487897
+          },
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3476930
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-cfcc0219-cded-4845-a1ec-edefa6170863-5408821-dfarci",
+        "repo_uuid": "intra-uuid-cfcc0219-cded-4845-a1ec-edefa6170863-5408821-dfarci",
+        "locked_at": "2024-01-18T15:55:09.676Z",
+        "closed_at": "2024-01-21T19:21:16.681Z",
+        "project_session_id": 3317,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/minishell"
+      }
+    ]
+  },
+  {
+    "id": 3320091,
+    "occurrence": 1,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5261831,
+    "project": {
+      "id": 1334,
+      "name": "Philosophers",
+      "slug": "42cursus-philosophers",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-10-23T16:06:26.635Z",
+    "marked": true,
+    "retriable_at": "2023-10-26T16:06:26.838Z",
+    "created_at": "2023-09-18T13:56:17.391Z",
+    "updated_at": "2023-10-23T16:06:26.888Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5184662,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5184662",
+        "final_mark": 0,
+        "project_id": 1334,
+        "created_at": "2023-09-18T13:56:17.432Z",
+        "updated_at": "2023-10-20T10:07:41.306Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3320091
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-9c05b641-00aa-460a-93fa-c4676d562722-5184662-dfarci",
+        "repo_uuid": "intra-uuid-9c05b641-00aa-460a-93fa-c4676d562722-5184662-dfarci",
+        "locked_at": "2023-09-18T13:56:17.485Z",
+        "closed_at": "2023-10-20T08:43:12.245Z",
+        "project_session_id": 3320,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/philosophers"
+      },
+      {
+        "id": 5261831,
+        "name": "dfarci's group-1",
+        "url": "https://api.intra.42.fr/v2/teams/5261831",
+        "final_mark": 125,
+        "project_id": 1334,
+        "created_at": "2023-10-23T11:22:11.880Z",
+        "updated_at": "2023-10-23T16:06:26.919Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 1,
+            "validated": true,
+            "projects_user_id": 3320091
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-e85b7236-a32c-4e35-a25b-5fb502cf0fad-5261831-dfarci",
+        "repo_uuid": "intra-uuid-e85b7236-a32c-4e35-a25b-5fb502cf0fad-5261831-dfarci",
+        "locked_at": "2023-10-23T11:22:12.003Z",
+        "closed_at": "2023-10-23T13:06:12.287Z",
+        "project_session_id": 3320,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/philosophers"
+      }
+    ]
+  },
+  {
+    "id": 3320092,
+    "occurrence": 0,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5184663,
+    "project": {
+      "id": 1321,
+      "name": "Exam Rank 03",
+      "slug": "exam-rank-03",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-09-22T16:36:36.658Z",
+    "marked": true,
+    "retriable_at": "2023-09-22T16:36:36.695Z",
+    "created_at": "2023-09-18T13:56:23.985Z",
+    "updated_at": "2023-09-22T16:36:44.911Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5184663,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5184663",
+        "final_mark": 100,
+        "project_id": 1321,
+        "created_at": "2023-09-18T13:56:24.015Z",
+        "updated_at": "2023-09-22T16:36:44.682Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3320092
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-a8659dbe-df53-4fc7-951b-e422542d2494-5184663-dfarci",
+        "locked_at": "2023-09-18T13:56:24.083Z",
+        "closed_at": "2023-09-22T16:36:44.530Z",
+        "project_session_id": 3307,
+        "project_gitlab_path": null
+      }
+    ]
+  },
+  {
+    "id": 3284970,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5129065,
+    "project": {
+      "id": 2004,
+      "name": "pipex",
+      "slug": "pipex",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-09-18T13:54:29.048Z",
+    "marked": true,
+    "retriable_at": "2023-09-20T13:54:29.273Z",
+    "created_at": "2023-09-03T01:50:21.107Z",
+    "updated_at": "2023-09-18T13:54:29.293Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5129065,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5129065",
+        "final_mark": 125,
+        "project_id": 2004,
+        "created_at": "2023-09-03T01:50:21.129Z",
+        "updated_at": "2023-09-18T13:54:29.339Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3284970
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-9320b403-5452-4e3f-8b32-73755f466539-5129065-dfarci",
+        "repo_uuid": "intra-uuid-9320b403-5452-4e3f-8b32-73755f466539-5129065-dfarci",
+        "locked_at": "2023-09-03T01:50:21.158Z",
+        "closed_at": "2023-09-16T04:25:26.007Z",
+        "project_session_id": 5990,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/pipex"
+      }
+    ]
+  },
+  {
+    "id": 3284929,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5128981,
+    "project": {
+      "id": 1476,
+      "name": "fract-ol",
+      "slug": "42cursus-fract-ol",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-09-10T17:28:04.590Z",
+    "marked": true,
+    "retriable_at": "2023-09-12T17:28:04.868Z",
+    "created_at": "2023-09-03T00:02:07.959Z",
+    "updated_at": "2023-09-10T17:28:04.882Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 5128981,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/5128981",
+        "final_mark": 125,
+        "project_id": 1476,
+        "created_at": "2023-09-03T00:02:07.981Z",
+        "updated_at": "2023-09-10T17:28:04.913Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3284929
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-d5977c0d-408c-4c45-a707-4dec38466fa8-5128981-dfarci",
+        "repo_uuid": "intra-uuid-d5977c0d-408c-4c45-a707-4dec38466fa8-5128981-dfarci",
+        "locked_at": "2023-09-03T00:02:08.014Z",
+        "closed_at": "2023-09-09T16:18:45.396Z",
+        "project_session_id": 3518,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/fract-ol"
+      }
+    ]
+  },
+  {
+    "id": 3084352,
+    "occurrence": 7,
+    "final_mark": 100,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 5125965,
+    "project": {
+      "id": 1320,
+      "name": "Exam Rank 02",
+      "slug": "exam-rank-02",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-09-06T17:12:58.629Z",
+    "marked": true,
+    "retriable_at": "2023-09-06T17:12:58.665Z",
+    "created_at": "2023-05-04T11:57:09.689Z",
+    "updated_at": "2023-09-06T17:13:07.766Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4832697,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4832697",
+        "final_mark": 25,
+        "project_id": 1320,
+        "created_at": "2023-05-04T11:57:09.728Z",
+        "updated_at": "2023-06-06T19:00:30.059Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-82d2839d-539c-4da5-a460-0f5cf95f6fb0-4832697-dfarci",
+        "locked_at": "2023-05-04T11:57:09.770Z",
+        "closed_at": "2023-06-06T19:00:29.916Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 4875365,
+        "name": "dfarci's group-1",
+        "url": "https://api.intra.42.fr/v2/teams/4875365",
+        "final_mark": 50,
+        "project_id": 1320,
+        "created_at": "2023-06-08T14:34:20.714Z",
+        "updated_at": "2023-06-09T19:00:25.587Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 1,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-0e955002-ea95-4811-8dac-41688a9b6be6-4875365-dfarci",
+        "locked_at": "2023-06-08T14:34:20.748Z",
+        "closed_at": "2023-06-09T19:00:25.378Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 4880234,
+        "name": "dfarci's group-2",
+        "url": "https://api.intra.42.fr/v2/teams/4880234",
+        "final_mark": 50,
+        "project_id": 1320,
+        "created_at": "2023-06-12T17:40:59.885Z",
+        "updated_at": "2023-06-13T19:00:25.871Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 2,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-5c785416-0edf-445d-9707-de4c7c6feb04-4880234-dfarci",
+        "locked_at": "2023-06-12T17:40:59.915Z",
+        "closed_at": "2023-06-13T19:00:25.510Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 4886927,
+        "name": "dfarci's group-3",
+        "url": "https://api.intra.42.fr/v2/teams/4886927",
+        "final_mark": 75,
+        "project_id": 1320,
+        "created_at": "2023-06-16T15:53:01.601Z",
+        "updated_at": "2023-06-16T19:00:29.155Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 3,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-61f52b3b-dc75-4fc2-9fc6-4b0d973616ee-4886927-dfarci",
+        "locked_at": "2023-06-16T15:53:01.640Z",
+        "closed_at": "2023-06-16T19:00:25.894Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 4887164,
+        "name": "dfarci's group-4",
+        "url": "https://api.intra.42.fr/v2/teams/4887164",
+        "final_mark": 50,
+        "project_id": 1320,
+        "created_at": "2023-06-16T19:21:56.593Z",
+        "updated_at": "2023-06-20T19:00:27.702Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 4,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-0c7142a8-1e42-4e74-bdcb-303b38c0e44d-4887164-dfarci",
+        "locked_at": "2023-06-16T19:21:56.627Z",
+        "closed_at": "2023-06-20T19:00:26.566Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 4892970,
+        "name": "dfarci's group-5",
+        "url": "https://api.intra.42.fr/v2/teams/4892970",
+        "final_mark": 75,
+        "project_id": 1320,
+        "created_at": "2023-06-20T19:59:22.843Z",
+        "updated_at": "2023-06-23T15:30:27.548Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 5,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-146c38ad-46fd-4919-b726-93f8d42a9f6f-4892970-dfarci",
+        "locked_at": "2023-06-20T19:59:22.884Z",
+        "closed_at": "2023-06-23T15:30:27.047Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 5123707,
+        "name": "dfarci's group-6",
+        "url": "https://api.intra.42.fr/v2/teams/5123707",
+        "final_mark": 75,
+        "project_id": 1320,
+        "created_at": "2023-08-31T14:06:34.309Z",
+        "updated_at": "2023-08-31T18:31:38.838Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 6,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-7527d5c6-d7ca-4000-a9fe-3c823dae97e1-5123707-dfarci",
+        "locked_at": "2023-08-31T14:06:34.345Z",
+        "closed_at": "2023-08-31T18:31:38.682Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      },
+      {
+        "id": 5125965,
+        "name": "dfarci's group-7",
+        "url": "https://api.intra.42.fr/v2/teams/5125965",
+        "final_mark": 100,
+        "project_id": 1320,
+        "created_at": "2023-09-01T10:32:49.126Z",
+        "updated_at": "2023-09-06T17:13:07.472Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 7,
+            "validated": true,
+            "projects_user_id": 3084352
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": null,
+        "repo_uuid": "intra-uuid-284e3f25-d716-4e69-8ce1-254e3579644b-5125965-dfarci",
+        "locked_at": "2023-09-01T10:32:49.167Z",
+        "closed_at": "2023-09-06T17:13:07.288Z",
+        "project_session_id": 3306,
+        "project_gitlab_path": null
+      }
+    ]
+  },
+  {
+    "id": 3073075,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 4817762,
+    "project": {
+      "id": 1471,
+      "name": "push_swap",
+      "slug": "42cursus-push_swap",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-05-26T08:39:04.295Z",
+    "marked": true,
+    "retriable_at": "2023-05-28T08:39:04.539Z",
+    "created_at": "2023-04-21T21:46:17.541Z",
+    "updated_at": "2023-05-26T08:39:04.554Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4817762,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4817762",
+        "final_mark": 125,
+        "project_id": 1471,
+        "created_at": "2023-04-21T21:46:17.564Z",
+        "updated_at": "2023-05-26T08:39:04.583Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 3073075
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-48a21245-7861-4f95-9489-d270ba4cae23-4817762-dfarci",
+        "repo_uuid": "intra-uuid-48a21245-7861-4f95-9489-d270ba4cae23-4817762-dfarci",
+        "locked_at": "2023-04-21T21:46:17.594Z",
+        "closed_at": "2023-05-21T01:16:25.392Z",
+        "project_session_id": 3513,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/push_swap"
+      }
+    ]
+  },
+  {
+    "id": 2904770,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 4581614,
+    "project": {
+      "id": 1994,
+      "name": "Born2beroot",
+      "slug": "born2beroot",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-02-27T12:43:28.155Z",
+    "marked": true,
+    "retriable_at": "2023-02-28T12:43:28.362Z",
+    "created_at": "2022-12-03T15:36:57.584Z",
+    "updated_at": "2023-02-27T12:43:28.381Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4581614,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4581614",
+        "final_mark": 125,
+        "project_id": 1994,
+        "created_at": "2022-12-03T15:36:57.622Z",
+        "updated_at": "2023-02-27T12:43:28.428Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 2904770
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-fc091632-fd3d-4cfb-b372-abdbeb9ea7bc-4581614-dfarci",
+        "repo_uuid": "intra-uuid-fc091632-fd3d-4cfb-b372-abdbeb9ea7bc-4581614-dfarci",
+        "locked_at": "2022-12-03T15:36:57.670Z",
+        "closed_at": "2023-02-27T07:29:29.108Z",
+        "project_session_id": 5895,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/born2beroot"
+      }
+    ]
+  },
+  {
+    "id": 2904769,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 4581613,
+    "project": {
+      "id": 1327,
+      "name": "get_next_line",
+      "slug": "42cursus-get_next_line",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2023-01-12T18:15:57.486Z",
+    "marked": true,
+    "retriable_at": "2023-01-13T18:15:57.592Z",
+    "created_at": "2022-12-03T15:36:55.344Z",
+    "updated_at": "2023-01-12T18:15:57.607Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4581613,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4581613",
+        "final_mark": 125,
+        "project_id": 1327,
+        "created_at": "2022-12-03T15:36:55.365Z",
+        "updated_at": "2023-01-12T18:15:57.255Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 2904769
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-4a4d15b3-e73a-4ee6-9855-e0d36b9b2006-4581613-dfarci",
+        "repo_uuid": "intra-uuid-4a4d15b3-e73a-4ee6-9855-e0d36b9b2006-4581613-dfarci",
+        "locked_at": "2022-12-03T15:36:55.399Z",
+        "closed_at": "2023-01-12T14:43:35.084Z",
+        "project_session_id": 3313,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/get_next_line"
+      }
+    ]
+  },
+  {
+    "id": 2904768,
+    "occurrence": 0,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 4581612,
+    "project": {
+      "id": 1316,
+      "name": "ft_printf",
+      "slug": "42cursus-ft_printf",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2022-12-29T17:51:59.330Z",
+    "marked": true,
+    "retriable_at": "2022-12-30T17:51:59.473Z",
+    "created_at": "2022-12-03T15:36:52.683Z",
+    "updated_at": "2022-12-29T17:51:59.492Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4581612,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4581612",
+        "final_mark": 125,
+        "project_id": 1316,
+        "created_at": "2022-12-03T15:36:52.705Z",
+        "updated_at": "2023-01-06T10:06:11.046Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 2904768
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-2c86516e-af5f-4c56-a007-9bce7d6097aa-4581612-dfarci",
+        "repo_uuid": "intra-uuid-2c86516e-af5f-4c56-a007-9bce7d6097aa-4581612-dfarci",
+        "locked_at": "2022-12-03T15:36:52.743Z",
+        "closed_at": "2022-12-26T17:07:04.670Z",
+        "project_session_id": 3302,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/ft_printf"
+      }
+    ]
+  },
+  {
+    "id": 2839912,
+    "occurrence": 1,
+    "final_mark": 125,
+    "status": "finished",
+    "validated?": true,
+    "current_team_id": 4580329,
+    "project": {
+      "id": 1314,
+      "name": "Libft",
+      "slug": "42cursus-libft",
+      "parent_id": null
+    },
+    "cursus_ids": [
+      21
+    ],
+    "marked_at": "2022-12-03T13:39:22.209Z",
+    "marked": true,
+    "retriable_at": "2022-12-04T13:39:22.329Z",
+    "created_at": "2022-10-17T11:40:23.810Z",
+    "updated_at": "2022-12-03T13:39:22.343Z",
+    "user": {
+      "id": 132432,
+      "email": "dfarci@student.42firenze.it",
+      "login": "dfarci",
+      "first_name": "Daniele",
+      "last_name": "Farci",
+      "usual_full_name": "Daniele Farci",
+      "usual_first_name": null,
+      "url": "https://api.intra.42.fr/v2/users/dfarci",
+      "phone": "hidden",
+      "displayname": "Daniele Farci",
+      "kind": "student",
+      "image": {
+        "link": "https://cdn.intra.42.fr/users/f515a4b53a3cc2f603abefb2a10e2281/dfarci.jpg",
+        "versions": {
+          "large": "https://cdn.intra.42.fr/users/30e25b0797a2f5e711503818a5ded93e/large_dfarci.jpg",
+          "medium": "https://cdn.intra.42.fr/users/517df4cd7c311d39b7f577c3f839a72b/medium_dfarci.jpg",
+          "small": "https://cdn.intra.42.fr/users/cdeaa6ff982c32be6559b2b5f14a54dd/small_dfarci.jpg",
+          "micro": "https://cdn.intra.42.fr/users/6692a33c3d9ca117684622dd877c916f/micro_dfarci.jpg"
+        }
+      },
+      "staff?": false,
+      "correction_point": 6,
+      "pool_month": "september",
+      "pool_year": "2022",
+      "location": "c2r1p2",
+      "wallet": 145,
+      "anonymize_date": "2027-03-20T00:00:00.000+01:00",
+      "data_erasure_date": "2027-03-20T00:00:00.000+01:00",
+      "created_at": "2022-08-29T09:45:39.735Z",
+      "updated_at": "2024-03-20T17:32:39.802Z",
+      "alumnized_at": null,
+      "alumni?": false,
+      "active?": true
+    },
+    "teams": [
+      {
+        "id": 4492697,
+        "name": "dfarci's group",
+        "url": "https://api.intra.42.fr/v2/teams/4492697",
+        "final_mark": 86,
+        "project_id": 1314,
+        "created_at": "2022-10-17T11:40:23.828Z",
+        "updated_at": "2022-11-30T14:01:34.217Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 0,
+            "validated": true,
+            "projects_user_id": 2839912
+          }
+        ],
+        "locked?": true,
+        "validated?": false,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-e3d5855c-7d8c-41a0-9473-5fa80409221f-4492697-dfarci",
+        "repo_uuid": "intra-uuid-e3d5855c-7d8c-41a0-9473-5fa80409221f-4492697-dfarci",
+        "locked_at": "2022-10-17T11:40:23.858Z",
+        "closed_at": "2022-11-28T00:59:47.132Z",
+        "project_session_id": 3300,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/libft"
+      },
+      {
+        "id": 4580329,
+        "name": "dfarci's group-1",
+        "url": "https://api.intra.42.fr/v2/teams/4580329",
+        "final_mark": 125,
+        "project_id": 1314,
+        "created_at": "2022-12-02T10:11:37.801Z",
+        "updated_at": "2022-12-03T13:39:21.993Z",
+        "status": "finished",
+        "terminating_at": null,
+        "users": [
+          {
+            "id": 132432,
+            "login": "dfarci",
+            "url": "https://api.intra.42.fr/v2/users/dfarci",
+            "leader": true,
+            "occurrence": 1,
+            "validated": true,
+            "projects_user_id": 2839912
+          }
+        ],
+        "locked?": true,
+        "validated?": true,
+        "closed?": true,
+        "repo_url": "git@vogsphere.42firenze.it:vogsphere/intra-uuid-c7243381-292d-488f-96a4-9df50d8a8633-4580329-dfarci",
+        "repo_uuid": "intra-uuid-c7243381-292d-488f-96a4-9df50d8a8633-4580329-dfarci",
+        "locked_at": "2022-12-02T10:11:37.843Z",
+        "closed_at": "2022-12-02T10:52:16.075Z",
+        "project_session_id": 3300,
+        "project_gitlab_path": "pedago_world/42-cursus/inner-circle/libft"
+      }
+    ]
+  }
+]
